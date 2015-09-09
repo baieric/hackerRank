@@ -6,7 +6,7 @@ import java.util.regex.*;
 
 // Solution to https://www.hackerrank.com/domains/algorithms/search
 
-// Fun fact: I got an almost identical question in my interview for D2L,
+// Fun fact: I got an almost identical question in an interview for my second co-op,
 // and I ended up landing the job
 
 public class Solution {
