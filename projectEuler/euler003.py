@@ -1,7 +1,6 @@
 #!/bin/python3
 
 import sys
-import math
 
 def isPrime(n):
     if n==2 or n==3: return True
@@ -21,4 +20,3 @@ for i in range(t):
         if (isPrime(x)):
             print(x)
             break
-        
