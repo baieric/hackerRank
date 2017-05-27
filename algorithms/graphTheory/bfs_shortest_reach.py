@@ -1,3 +1,5 @@
+# Solution to https://www.hackerrank.com/challenges/bfsshortreach
+
 q = int(input())
 for a0 in range(q):
     n, m = [int(x) for x in input().split()]
