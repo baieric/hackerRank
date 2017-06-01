@@ -4,11 +4,6 @@ import java.text.*;
 import java.math.*;
 import java.util.regex.*;
 
-// Solution to https://www.hackerrank.com/domains/algorithms/search
-
-// Fun fact: I got an almost identical question in an interview for my second co-op,
-// and I ended up landing the job
-
 public class Solution {
     static int pairs(int[] a,int k) {
         Set nums = new HashSet();
